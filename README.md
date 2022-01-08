@@ -3,6 +3,9 @@ some scientific computing project stuff using imaginary numbers to generate frac
 
 
 todo if want
-- GUI
-- Maybe add more fractal types
+- GUI probably with 
+  -QT
+- Maybe add more fractal types 
+  -maff research 
 - make option to add gifs using APIs - majickAPI?
+  - very tertiary objective 
